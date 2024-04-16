@@ -1,0 +1,7 @@
+pip install pyinstaller
+
+pyinstaller main.py
+
+if you want to make only file and don't want to add unessesary files 
+
+pyinstaller --onefile main.py
